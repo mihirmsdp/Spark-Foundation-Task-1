@@ -64,3 +64,8 @@ a.btn:hover
 {
 	font-size: 70px;
 }
+
+.banner-info, .banner-image
+{
+	margin: 45px 0;
+}
